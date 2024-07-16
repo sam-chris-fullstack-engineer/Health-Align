@@ -6,7 +6,7 @@ import React from "react";
 
 const Register = async ({ params: { userId } }: SearchParamProps) => {
   const user = await getUser(userId);
-
+  console.log("user: ", user);
   return (
     <div className="flex h-screen max-h-screen">
       <section className="remove-scrollbar container">
@@ -21,9 +21,7 @@ const Register = async ({ params: { userId } }: SearchParamProps) => {
 
           <RegisterForm user={user} />
 
-          <p className="copyright py-12">
-            © 2024 Health Align
-          </p>
+          <p className="copyright py-12">© 2024 Health Align</p>
         </div>
       </section>
       <Image
