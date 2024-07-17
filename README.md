@@ -2,10 +2,10 @@
 
 Health Align is a comprehensive patient management application designed to streamline the healthcare experience. This system allows patients to easily register, book, and manage their appointments with doctors. It also includes powerful administrative tools for scheduling, confirming, and canceling appointments, and features SMS notifications to keep everyone informed. The entire application is built using Next.js for a robust and efficient user experience.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FF3E00?style=flat&logo=appwrite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ## Overview
 1. [Introduction](#introduction)
