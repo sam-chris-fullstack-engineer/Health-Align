@@ -26,8 +26,6 @@ Health Align is a comprehensive patient management application designed to strea
 - **File Upload Using Appwrite Storage**: Users can upload and store files securely within the app using Appwrite storage services.
 - **Manage and Track Application Performance Using Sentry**: The application uses Sentry to monitor and track its performance and detect any errors.
 
-and many more, including code architecture and reusability.
-
 ## Tech Stack
 - **Next.js**: The React Framework for Production
 - **TypeScript**: JavaScript with syntax for types
